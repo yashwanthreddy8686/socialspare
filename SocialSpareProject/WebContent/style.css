@@ -1,0 +1,11 @@
+.nav a {
+  float: center;
+  color: black;
+  background-color: #E3DFDE;
+  text-align: center;
+  padding: 10px 12px;
+  text-decoration: none;
+  border : 1px solid black;
+  border-radius:10px;
+  font-size: 17px;
+}
